@@ -19,11 +19,8 @@ clear **** one way to clear the screen (also command K)
 ls -m **** -m will sort things with commas
 cd .. ****Going up a directory (back in time)
 cd ls
-cd gonzaga
-cd schoooool/
-cd marketing
 ls /Applications/Sublime\ Text\ 2.app/
-cd /users/mercedescain
+cd /users/mercedescain ****home directory
 cd ~
 la
 ll ******Makes
@@ -40,7 +37,7 @@ ls -lt
 ls -l
 ls -t **** Displays recently changed items
 cd /
-git config --global user.email 'MERCEDESCAIN@GMAIL.COM'
+git config --global user.email 'MERCEDESCAIN@GMAIL.COM' ***maybe later change email to lowercase)
 git config --global user.name 'Mercedes Cain'
 git --version
 subl etc/paths
@@ -49,12 +46,10 @@ echo $EDITOR
 subl ~/.config/fish/config.fish
 brew info fish
 fish_update_completions
-brew update
-brew doctor
+brew update *****Update brew (do this periodically it doesnt update on its own)
+brew doctor *****check to see if brew is running
 $git --version
 subl /etc/paths
-sulb /etc/paths
-subl/etc/paths
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 help
 uname *****(Where we started today)
