@@ -1,0 +1,62 @@
+history | less
+less moving_around.txt
+subl moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
+history > moving_around.txt
+cd
+pwd
+history | sort | less **** example of chaining and piping.
+history | sort
+man man
+h
+history
+history ls-r
+history -r
+ls . *** . = right here
+cd documents/
+clear **** one way to clear the screen (also command K)
+ls -m **** -m will sort things with commas
+cd .. ****Going up a directory (back in time)
+cd ls
+cd gonzaga
+cd schoooool/
+cd marketing
+ls /Applications/Sublime\ Text\ 2.app/
+cd /users/mercedescain
+cd ~
+la
+ll ******Makes
+man ls ****Manual for the list command
+ls -1r
+ls -s
+ls -mr *****Sort with commas in reverse
+ls -m
+ls -lr
+ls -rl
+ls -rt
+ls -r  *****Sort reverse
+ls -lt
+ls -l
+ls -t **** Displays recently changed items
+cd /
+git config --global user.email 'MERCEDESCAIN@GMAIL.COM'
+git config --global user.name 'Mercedes Cain'
+git --version
+subl etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+fish_update_completions
+brew update
+brew doctor
+$git --version
+subl /etc/paths
+sulb /etc/paths
+subl/etc/paths
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+help
+uname *****(Where we started today)
+
+
