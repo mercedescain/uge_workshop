@@ -1,0 +1,13 @@
+Hi git is fun! Branching is great!
+
+Labels Notes
+
+o Head
+o Master
+  One free branch, but we can make more
+o Branch
+  Git branch git-notes (adds label git-notes to a commit)
+  Prompt tells us what our active label is
+  Git branch (checks which label)
+  Git checkout (branch/label name) ((changes label))
+    Diversion in timeline
