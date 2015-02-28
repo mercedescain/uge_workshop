@@ -21,7 +21,6 @@ cd .. ****Going up a directory (back in time)
 cd ls
 ls /Applications/Sublime\ Text\ 2.app/
 cd /users/mercedescain ****home directory
-cd ~
 la
 ll ******Makes
 man ls ****Manual for the list command
