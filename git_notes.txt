@@ -11,3 +11,18 @@ o Branch
   Git branch (checks which label)
   Git checkout (branch/label name) ((changes label))
     Diversion in timeline
+
+• GitHub
+  o Create new repository
+  o If you have repo on computer don’t check initialize with a readme (only if making one from scratch on github)
+o Remote
+  • Nickname for a url
+  • Git remote add origin url
+  • Git remote
+       Tells you how many remotes you have
+  • Git push
+       Push to repo on github
+       Push master branch
+       -u
+    • only need to do it once when you push
+    • when you do git push next time you don’t have to specify where you’re pushing and pulling to as long as you’re on the master
